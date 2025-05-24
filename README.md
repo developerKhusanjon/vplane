@@ -1,2 +1,2 @@
 # Vplane
-Notes as massages
+Notes as messages
