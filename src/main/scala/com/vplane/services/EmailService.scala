@@ -2,7 +2,6 @@ package com.vplane.services
 
 import cats.effect.IO
 import cats.implicits.*
-import com.vplane.domain.*
 import com.vplane.config.TwilioConfig
 import sttp.client3.*
 import sttp.client3.circe.*
